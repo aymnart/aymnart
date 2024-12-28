@@ -1,6 +1,7 @@
 # 💫 About Me:
 🚀 Hi, I'm **Aymen Amara**! At 23, I've been coding for nearly a decade (started at 14!). I'm a **Full-Stack JavaScript Developer** passionate about **Web3**, crafting sleek designs, and building entrepreneurial ventures. Let's turn ideas into reality! 🌟
-
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aymen111/) 
@@ -11,9 +12,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aymnart&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aymnart&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aymnart&limit=5&theme=dark&combine_all_yearly_contributions=true)
