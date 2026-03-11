@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hi, I'm **Aymen Amara**! At 24, I've been coding for nearly a decade (started at 14!). I'm a **Full-Stack JavaScript Developer** passionate about **Web3**, crafting sleek designs, and building entrepreneurial ventures.
+🚀 Hi, I'm **Aymen Amara**! I have been coding almost 10 years (since I was 14!). I am a Full- Stack JavaScript developer who is obsessed with Web3, making smooth designs, and launching entrepreneurial projects.
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
